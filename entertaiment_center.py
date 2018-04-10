@@ -1,5 +1,5 @@
 import media
-
+import fresh_tomatoes
 
 #Creating an object of the class "Movie"
 toy_story = media.Movie("Toy story",str(2)+" horas",
@@ -27,3 +27,7 @@ game_of_thrones = media.Movie("Game of thrones",str(100)+" horas",
                               "People fighting for the iron throne",
                               "goo.gl/j7zoqm","goo.gl/KWcbn4",
                                8,60,"HBO")
+
+movies = [toy_story, avatar, interstellar, breaking_bad, game_of_thrones]
+
+fresh_tomatoes.open_movies_page(movies)
