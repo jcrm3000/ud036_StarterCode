@@ -2,16 +2,17 @@
 
 
 
-#creating a class called Movie
-class Movie:
+#Creating a class called Movie
 
-    #creating the constructor of the class and puting the properties to it
+class Video:
     
-    def __init__(self, movie_title, storyline, poster_image, trailer_youtube):
+    #Creating the constructor of the class and puting the atributtes to it
 
-        #initializing the properties variables
+    def __init__(self, title, duration):
+
+        #Initializing the properties variables
         
-        self.title = movie_title
-        self.storyline = storyline
-        self.poster_image_url = poster_image
-        self.trailer_youtube_url = trailer_youtube
+        self.title = title
+        self.duration = duration
+
+
