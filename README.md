@@ -9,11 +9,7 @@ To be able to view the finished webpage click [here](https://bit.ly/2qnb4ud)
 
 ## Contribuiting 
 
-I encourage you to contribute to my _Favorite Movies Trailers_ project.
-
-## Code Status
-
-[![Travis](https://img.shields.io/travis/USER/REPO.svg?style=plastic)](https://github.com/jcrm3000/ud036_StarterCode.git)
+I encourage you to contribute to my **_Favorite Movies Trailers_** project.
 
 ## License
 
