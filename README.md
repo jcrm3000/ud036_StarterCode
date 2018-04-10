@@ -5,7 +5,7 @@ It displays the name, trailer and an image of my favorite movies.
 
 ## Ussage
 
-To be able to view the finished webpage click ([here](https://bit.ly/2qnb4ud))
+To be able to view the finished webpage click [here](https://bit.ly/2qnb4ud)
 
 ## Contribuiting 
 
@@ -17,4 +17,4 @@ I encourage you to contribute to my _Favorite Movies Trailers_ project.
 
 ## License
 
-Is released under the ([MIT](https://bit.ly/2v2QSDB)) License
+Is released under the [MIT](https://bit.ly/2v2QSDB) License
