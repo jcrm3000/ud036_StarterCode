@@ -17,4 +17,4 @@ I encourage you to contribute to my _Favorite Movies Trailers_ project.
 
 ## License
 
-Is released under the ([MIT](origin/LICENSE.txt)) License
+Is released under the ([MIT](https://bit.ly/2v2QSDB)) License
