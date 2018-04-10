@@ -34,15 +34,16 @@ class Movie(Video):
 #Creating a child class of the class "Movie"
 #being the grandchild of the class "Video"
 class Tv_show(Movie):
-
+    
+    #Creating the constructor of the class and puting the attributes to it
     def __init__(self, title, duration, storyline,
                  poster_image, trailer_youtube,
-                 season, episode, tv_station):
+                 seasons, episodes, tv_station):
         
         Movie.__init__(self, title, duration, storyline,
                        poster_image, trailer_youtube)
-        self.season = season
-        self.episode = episode
+        self.seasons = seasons
+        self.episodes = episodes
         self.tv_station = tv_station
 
 
