@@ -13,7 +13,7 @@ I encourage you to contribute to my _Favorite Movies Trailers_ project.
 
 ## Code Status
 
-[![Bintray](https://img.shields.io/bintray/v/https://github.com/jcrm3000/ud036_StarterCode.git)](https://bintray.com/asciidoctor/https://github.com/jcrm3000/ud036_StarterCode.git)
+[![Travis](https://img.shields.io/travis/USER/REPO.svg?style=plastic)](https://github.com/jcrm3000/ud036_StarterCode.git)
 
 ## License
 
