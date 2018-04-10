@@ -17,13 +17,13 @@ interstellar = media.Movie("Interstellar",str(2)+" horas",
                               "goo.gl/zUuZ2x","goo.gl/wUW7zT")
 
 #Creating an object of the class "Tv_show"
-breaking_bad = media.Movie("Breaking bad",str(100)+" horas",
+breaking_bad = media.Tv_show("Breaking bad",str(100)+" horas",
                               "A professor, how makes drogs",
                               "goo.gl/7ZdQT1","goo.gl/CFhcgP",
                                5,62,"RTL")
 
 #Creating an object of the class "Tv_show"
-game_of_thrones = media.Movie("Game of thrones",str(100)+" horas",
+game_of_thrones = media.Tv_show("Game of thrones",str(100)+" horas",
                               "People fighting for the iron throne",
                               "goo.gl/j7zoqm","goo.gl/KWcbn4",
                                8,60,"HBO")
