@@ -1,6 +1,7 @@
 import media
 import fresh_tomatoes
 
+
 #Creating an object of the class "Movie"
 toy_story = media.Movie("Toy story",str(2)+" horas",
                         "Toys that are alive",
@@ -33,6 +34,8 @@ game_of_thrones = media.Tv_show("Game of thrones",str(100)+" horas",
                                 "https://www.youtube.com/watch?v=v5gsVRxzzI4",
                                 8,60,"HBO")
 
+#Creating an array to store all the objects
 movies = [toy_story, avatar, interstellar, breaking_bad, game_of_thrones]
 
+#Calling the method "open_movies_page() of the class fresh_tomatoes
 fresh_tomatoes.open_movies_page(movies)

@@ -3,13 +3,9 @@ import webbrowser
 
 #Creating a parent class
 class Video:
-    
     #Creating the constructor of the class and puting the attributes to it
-
     def __init__(self, title, duration):
-
         #Initializing the attributes variables
-        
         self.title = title
         self.duration = duration
 
