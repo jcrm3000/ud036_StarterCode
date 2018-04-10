@@ -1,6 +1,6 @@
 ## Favorite Movies Trailers
 
-Is a small static webpage only designed for being the first project of the ([Fullstack Webdeveloper Nanodegree Program](https://bit.ly/1EA7MCq)) of ([Udacity](https://www.udacity.com/)).
+Is a small static webpage only designed for being the first project of the _[Fullstack Webdeveloper Nanodegree Program](https://bit.ly/1EA7MCq)_ of _[Udacity](https://www.udacity.com/)_.
 It displays the name, trailer and an image of my favorite movies.
 
 ## Ussage
