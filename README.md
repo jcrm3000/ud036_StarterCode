@@ -7,11 +7,11 @@ It displays the name, trailer and an image of my favorite movies.
 
 * Initialize Git in a local directory on the terminal
 
-`$ git init`
+  `$ git init`
 
 * Clone the GitHub repository
 
-`$ git clone https://github.com/jcrm3000/ud036_StarterCode.git`
+  `$ git clone https://github.com/jcrm3000/ud036_StarterCode.git`
 
 ## Ussage
 
