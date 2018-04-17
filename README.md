@@ -7,15 +7,15 @@ It displays the name, trailer and an image of my favorite movies.
 
 * Clone the GitHub repository
 
-  `$ git clone https://github.com/jcrm3000/ud036_StarterCode.git`
+    `$ git clone https://github.com/jcrm3000/ud036_StarterCode.git`
 
 * Open the container directory of the files
 
-  `/ud036_StarterCode/`
+    `/ud036_StarterCode/`
   
 * Run the Python file
  
-  `entertaiment_center.py`
+    `entertaiment_center.py`
 
 ## Ussage
 
