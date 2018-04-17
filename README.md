@@ -11,11 +11,11 @@ It displays the name, trailer and an image of my favorite movies.
 
 * Open the container directory of the files
 
-    `/ud036_StarterCode/`
+    `../ud036_StarterCode/`
   
 * Run the Python file
  
-    `entertaiment_center.py`
+    `entertaiment_center.py`
 
 ## Ussage
 
