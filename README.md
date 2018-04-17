@@ -5,13 +5,17 @@ It displays the name, trailer and an image of my favorite movies.
 
 ## Installation
 
-* Initialize Git in a local directory on the terminal
-
-  `$ git init`
-
 * Clone the GitHub repository
 
   `$ git clone https://github.com/jcrm3000/ud036_StarterCode.git`
+
+* Open the container directory of the files
+
+  `/ud036_StarterCode/`
+  
+* Run the Python file
+ 
+  `entertaiment_center.py`
 
 ## Ussage
 
